@@ -1,6 +1,6 @@
-var produccion_diaria_litros = prompt("Litros de leche producidos hoy:  ")
-var produccion_diaria_galones = (produccion_diaria_litros/3.785)
-alert("Hoy se produjeron " + produccion_diaria_galones + " galones")
+var prod_lit = prompt("Litros de leche producidos hoy:  ")
+var prod_gal = (prod_lit/3.785)
+alert("Hoy se produjeron " + prod_gal + " galones")
 //Escribe aquí tu código
 
 //Escribe el pseudocódigo

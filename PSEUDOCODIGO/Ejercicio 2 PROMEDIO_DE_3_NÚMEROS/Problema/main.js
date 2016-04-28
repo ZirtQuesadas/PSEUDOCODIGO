@@ -12,5 +12,5 @@ document.write(promedio)//Escribe aquí tu código
 //Inicio
 //Leer las medidas n1, n2 y n3
 //Sumar medidas n1, n2 y n3, para luego dividir entre 3 y guardarlo en variable "promedio"
-//Escribir "promedio"
+//Mostrar "promedio"
 //Fin

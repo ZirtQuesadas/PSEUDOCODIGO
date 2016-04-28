@@ -1,6 +1,6 @@
 var base = prompt("Dame el primer número")
 var altura = prompt("Dame el segundo número")
-var ba = (parseInt(n1)+parseInt(n2)+parseInt(n3))
+var ba = (parseInt(base) * parseInt(altura) )
 
 var area = (ba/2)
 document.write("El área del triángulo es  ")
